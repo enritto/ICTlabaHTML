@@ -1,0 +1,33 @@
+<HTML>
+	<HEAD>
+		<TITLE>Расписание занятий 11 классов</TITLE>
+	</HEAD>
+	<BODY BGCOLOR="#9e6f83">
+	<P ALIGN="CENTER">
+	<FONT COLOR="#f2f2f8" SIZE="6" FACE="ARIAL">
+	<B>11 класс</B></FONT><BR></P>
+	<FONT COLOR="#0ff" SIZE="4" FACE="COURIER">
+	<B>Вторник</B></FONT><BR>
+		<TABLE BORDER="1" WIDTH=100% BGCOLOR="#ccc">
+		<TR BGCOLOR="#CCCCFF" ALIGN="CENTER">
+		<TD>Урок</TD> <TD>11 "А"</TD> <TD>11 "Б"</TD>
+		<TD>11 "В"</TD>
+		</TR>
+		<TD>1</TD> <TD>Русский язык</TD>
+		<TD>Литература</TD> <TD>История</TD>
+		</TR>
+		<TD>2</TD> <TD>Алгебра</TD>
+		<TD>Информатика</TD> <TD>Английский язык</TD>
+		</TR>
+		<TD>3</TD> <TD>История</TD>
+		<TD>Алгебра</TD> <TD>Информатика</TD>
+		</TR>
+		<TD>3</TD> <TD>Обществознание</TD>
+		<TD>Алгебра</TD> <TD>Информатика</TD>
+		</TR>
+		<TD>3</TD> <TD>Английский</TD>
+		<TD>Обществознание</TD> <TD>Информатика</TD>
+		</TR>
+		</TABLE>
+	</BODY>
+</HTML>

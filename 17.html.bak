@@ -1,0 +1,38 @@
+<html>
+	<head>
+	<title>What's Linux rice</title>
+	</head>
+	<body bgcolor="#2E3440" text="#D8DEE9"> 
+	<p align="center">
+		<font color="#A3BE8C" size="7">
+		<b><i>Linux Rice</i></b></font><br>
+		<font color="#81A1C1" size="6"><b>a basic intro</b></font>
+		</br>
+		<font size="4">
+		<br></br>
+	</p>
+		RICE (Race Inspired Cosmetic Enhancements) is a bunch of customization a linux user can apply to make their desktop (or browser start page, text editor, etc) more beautiful.
+		<br></br>
+		The most common things to rice are wms, especially tiling ones. for example, this is my basic dwm rice:
+		<br></br>
+		<img src="https://user-images.githubusercontent.com/83285636/142895547-97ba6b5f-586c-41ca-a7a1-337c4cd3e092.png"></img>
+		<br></br>
+		<img src="https://user-images.githubusercontent.com/83285636/142895604-3663afe7-90ee-4c19-a09a-18be48775a32.png"></img>
+		<br></br>
+		<img src="https://user-images.githubusercontent.com/83285636/142738976-342fe857-b121-4713-aef3-44a6d617c2a9.png"></img>
+		<br></br>
+		To one's thought it is very difficult, but when you start doing that, it actually is really enjoyable.
+		Moreover, you can learn how things on linux work.
+		<br></br>
+		Often, you don't use a DE (Desktop Environment) while ricing, thus you do everything from scratch.
+		You choose what notification manager, file manager, text editor you are gonna have.
+		If you are hardened enough to start a deeper linux journey, you can install Gentoo (my personal favourite. As flexible as LFS but is way easier) or Arch Linux or Debian.
+		<br></br>
+		But things don't end there.
+		If you want to make your own rice, you can always look up to my dotfiles, or watch some cool channels:
+		<br></br>
+		<a href="https://github.com/enritto/gentoo_dotfiles">My Gentoo dotfiles</a>
+		<br></br>
+		<a href="https://github.com/enritto/dotfiles">My Debian dotfiles</a>
+		<br></br>
+		<a href="https://www.youtube.com/c/DistroTube">DistroTube YouTube channel</a>
